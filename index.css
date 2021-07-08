@@ -1,0 +1,18 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin-left: 20%;
+  margin-right: 20%;
+}
+nav {
+  display: flex;
+}
+
+.lovetea {
+  height: 50vh;
+  background-image: url(/lovefortea.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top;
+}
